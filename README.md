@@ -6,7 +6,7 @@ In this application, we can add student ,there marks,semester &  See multiple re
 - Top 2 Consistent Students across all semesters (Maximum average marks) 
 
 # ER Diagram
-[![SwaggerUI](https://github.com/ChocotacoOp/StudentReportingSystem/blob/main/image/erd.png?raw=true)](https://github.com/ChocotacoOp/StudentReportingSystem/blob/main/image/erd.png?raw=true)
+[![SwaggerUI](https://github.com/ChocotacoOp/Student_Reporting_System/blob/main/image/erd.png?raw=true)](https://github.com/ChocotacoOp/Student_Reporting_System/blob/main/image/erd.png?raw=true)
 
 # Functionalities
 -   Add Student
