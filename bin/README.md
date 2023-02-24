@@ -5,8 +5,6 @@ In this application, we can add student ,there marks,semester &  See multiple re
 - Average marks of Students in a subject
 - Top 2 Consistent Students across all semesters (Maximum average marks) 
 
-# ER Diagram
-<!-- [![SwaggerUI](https://github.com/kalevishal52/Student_Management_System/blob/main/StudentManagementApplication/Images/ER%20Diagram%20Student%20Management.png?raw=true)](https://github.com/kalevishal52/Student_Management_System/blob/main/StudentManagementApplication/Images/ER%20Diagram%20Student%20Management.png?raw=true) -->
 
 # Functionalities
 -   Add Student
@@ -86,10 +84,4 @@ spring.mvc.pathmatch.matching-strategy = ANT_PATH_MATCHER
 }
 ```
 
-## Swagger UI
-## Student Controller
-<!-- [![SwaggerUI](https://github.com/kalevishal52/Movie_Ticket_Booking_Application_Backend/blob/main/images/Images/s2.png?raw=true)](https://github.com/kalevishal52/Movie_Ticket_Booking_Application_Backend/blob/main/images/Images/s2.png?raw=true)
 
-
-## Course Controller
-[![SwaggerUI](https://github.com/kalevishal52/Movie_Ticket_Booking_Application_Backend/blob/main/images/Images/s1.png?raw=true)](https://github.com/kalevishal52/Movie_Ticket_Booking_Application_Backend/blob/main/images/Images/s1.png?raw=true) -->
